@@ -1,6 +1,4 @@
 
-
-
 const weatherForm = document.querySelector('form')
 const inputData = document.querySelector('input')
 const messageOne= document.querySelector('#message-1')
